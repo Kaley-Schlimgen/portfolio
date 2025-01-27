@@ -7,6 +7,10 @@
 
 - B.A., Music | Lewis & Clark College (_May 2013_)
 
+## Projects
+### Project 1
+### Project 2
+
 ## Work Experience
 **Shift Lead @ Heritage Bar & Grill (_May 2021 - January 2025_)**
 - Detail
@@ -16,9 +20,7 @@
 - Detail
 - Detail
 
-## Projects
-### Project 1
-### Project 2
+
 
 
 
