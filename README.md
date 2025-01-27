@@ -18,9 +18,7 @@
 
 ## Projects
 ### Project 1
-
-
-Describe
+### Project 2
 
 
 
