@@ -1,20 +1,27 @@
 # Computer Science Student
 
-### Education
-CSU Global
-est. graduation: May 2026
+#### Technical Skills: Java, Python, C++, MySQL
 
-Lewis & Clark College
-Music, BA
-2013
+## Education
+- B.S., Computer Science | CSU Global (_May 2026_)
 
-### Work Experience
-Shift Lead @ Heritage Bar & Grill
+- B.A., Music | Lewis & Clark College (_May 2013_)
 
-### Projects
-Personal
--
-School
--
+## Work Experience
+**Shift Lead @ Heritage Bar & Grill (_May 2021 - January 2025_)**
+- Detail
+- Detail
+
+**Job**
+- Detail
+- Detail
+
+## Projects
+### Project 1
+
+
+Describe
+
+
 
 
